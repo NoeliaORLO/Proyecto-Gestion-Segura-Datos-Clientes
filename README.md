@@ -1,7 +1,7 @@
 # Proyecto: Gestión Segura de Datos de Clientes 👨🏻‍💻
 Breve proyecto enfocado en aplicar la ética y la privacidad a un csv de datos de clientes.
 
-## ¿ Qué pretende este proyecto?
+## ¿Qué pretende este proyecto?
 Con este proyecto pretendo volcar todos los conocimientos adquiridos en el ámbito de la ética y la privacidad en Data Science. Para ello, aplico técnicas de anonimización, pseudonimización y balanceo 
 de datos a un csv de clientes que contiene datos relativos al nombre, dirección, edad, categoría y salario. 
 
